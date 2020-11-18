@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.float-left{
+    float: left;
+    height: 80px;
+    width: 120px;
+    background-color: blueviolet;
+}
+.content{
+    margin-left: 120px;
+    height: 80px;
+    background-color: cadetblue;
+}
+.obsolute{
+    height: 80px;
+    width: 120px;
+    position: absolute;
+    top:0;
+    left:0;
+    background-color: chocolate;
+}
